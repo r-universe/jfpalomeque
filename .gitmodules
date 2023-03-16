@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PDM"]
+	path = PDM
+	url = https://github.com/jfpalomeque/pdm
+	shallow = true
+	registered = true
